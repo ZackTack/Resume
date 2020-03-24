@@ -1,4 +1,4 @@
 # My Resume
 ## Resume written in Python using matplotlib
 
-![image]()
+![image](https://github.com/ZackTack/Resume/blob/master/resume.png)
